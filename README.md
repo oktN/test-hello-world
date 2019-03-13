@@ -1,9 +1,14 @@
 ## TEST HELLO WORLD
 
-To run tests on Windows run RunTest.ps1 in a PowerShell console.
+To run tests on Windows (PowerShell):
 
-To run tests on Linux run make tests in a Linux shell.
+`./RunTests.ps1`
+
+To run tests on Linux (Make):
+
+`make tests`
 
 ### Requirements
 
 - Docker
+- Make or PowerShell
